@@ -26,6 +26,7 @@ Ecomeal AI/
 ├── requirements.txt
 └── README.md
 
+
 ## 🚀 How to Run
 
 ### 1. Install dependencies
