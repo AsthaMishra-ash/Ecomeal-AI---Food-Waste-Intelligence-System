@@ -1,0 +1,12 @@
+feature,importance
+days_until_expiry,0.39132372
+stock_expiry_gap,0.12613675
+wastage_norm,0.09595566
+stock_to_expiry_ratio,0.07604669
+wastage_history_pct,0.07092282
+is_perishable,0.06602189
+days_of_stock,0.043888655
+quantity_kg,0.042525426
+daily_consumption_kg,0.033588327
+category_enc,0.029609408
+will_waste,0.023980672

@@ -1,0 +1,8 @@
+pandas
+numpy
+faker
+scikit-learn
+xgboost
+shap
+streamlit
+ollama
