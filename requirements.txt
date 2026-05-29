@@ -6,3 +6,5 @@ xgboost
 shap
 streamlit
 ollama
+plotly
+requests
